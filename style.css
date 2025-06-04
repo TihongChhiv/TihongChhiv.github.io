@@ -1,0 +1,26 @@
+body {
+    background: #0e0e52;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .card {
+    background: #1a1a60;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .avatar {
+    width: 100px;
+    border-radius: 50%;
+  }
+  
+  .desc {
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  
